@@ -1,0 +1,11 @@
+D:\Reflection\Reflection\obj\Debug\netcoreapp2.0\Reflection.csprojAssemblyReference.cache
+D:\Reflection\Reflection\obj\Debug\netcoreapp2.0\Reflection.csproj.CoreCompileInputs.cache
+D:\Reflection\Reflection\obj\Debug\netcoreapp2.0\Reflection.AssemblyInfoInputs.cache
+D:\Reflection\Reflection\obj\Debug\netcoreapp2.0\Reflection.AssemblyInfo.cs
+D:\Reflection\Reflection\bin\Debug\netcoreapp2.0\Reflection.deps.json
+D:\Reflection\Reflection\bin\Debug\netcoreapp2.0\Reflection.runtimeconfig.json
+D:\Reflection\Reflection\bin\Debug\netcoreapp2.0\Reflection.runtimeconfig.dev.json
+D:\Reflection\Reflection\bin\Debug\netcoreapp2.0\Reflection.dll
+D:\Reflection\Reflection\bin\Debug\netcoreapp2.0\Reflection.pdb
+D:\Reflection\Reflection\obj\Debug\netcoreapp2.0\Reflection.dll
+D:\Reflection\Reflection\obj\Debug\netcoreapp2.0\Reflection.pdb
